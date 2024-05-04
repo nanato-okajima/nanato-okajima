@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanato-okajima&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nanato-okajima&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nanato-okajima&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
 <!--
 **nanato-okajima/nanato-okajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
