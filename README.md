@@ -3,8 +3,8 @@
 ![gitartwork](gitartwork.svg)
 
 <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanato-okajima&layout=compact&theme=onedark" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=nanato-okajima&theme=onedark&show_icons=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats-private-vert.vercel.app/api/top-langs/?username=nanato-okajima&layout=compact&theme=onedark" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats-private-vert.vercel.app/api?username=nanato-okajima&theme=onedark&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nanato-okajima&theme=gruvbox)](https://github.com/nanato-okajima/github-profile-trophy)
