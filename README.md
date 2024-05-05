@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gitartwork](gitartwork.svg)
+
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanato-okajima&layout=compact&theme=onedark" />
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=nanato-okajima&theme=onedark&show_icons=true" />
